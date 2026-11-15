@@ -1,0 +1,2 @@
+1|Garbage|104|Garbage not collected near the bus stop|Sanitation Department|Received|2026-11-10|2026-11-10|False
+2|Street Light|102|Street light not working in residential area|Electrical Department|In Progress|2026-11-05|2026-11-08|False
